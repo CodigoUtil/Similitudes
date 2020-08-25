@@ -20,3 +20,15 @@ E:\Desarrollo Software\LearningLinkedin\CSharpVSC\FechaActual_CSharp\obj\Debug\n
 E:\Desarrollo Software\LearningLinkedin\CSharpVSC\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.AssemblyInfo.cs
 E:\Desarrollo Software\LearningLinkedin\CSharpVSC\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.dll
 E:\Desarrollo Software\LearningLinkedin\CSharpVSC\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.pdb
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\bin\Debug\netcoreapp2.2\CSharpVSC.deps.json
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\bin\Debug\netcoreapp2.2\CSharpVSC.runtimeconfig.json
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\bin\Debug\netcoreapp2.2\CSharpVSC.runtimeconfig.dev.json
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\bin\Debug\netcoreapp2.2\CSharpVSC.dll
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\bin\Debug\netcoreapp2.2\CSharpVSC.pdb
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.csprojAssemblyReference.cache
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.AssemblyInfoInputs.cache
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.AssemblyInfo.cs
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.csproj.CoreCompileInputs.cache
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.dll
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.pdb
+E:\Desarrollo Software\Similitudes\CSharp-y-Nodejs\FechaActual_CSharp\obj\Debug\netcoreapp2.2\CSharpVSC.genruntimeconfig.cache
